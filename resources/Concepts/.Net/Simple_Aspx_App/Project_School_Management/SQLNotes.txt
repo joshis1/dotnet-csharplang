@@ -1,0 +1,54 @@
+CREATE TABLE StudentTable
+(
+  StudentID int NOT NULL,
+  Fname varchar(10) NOT NULL,
+  Lname varchar(20) NOT NULL,
+  PasswordHash BINARY(64) NOT NULL,
+  RoleID int NOT NULL,
+  ClassID int NOT NULL,
+  Gender char(1) NOT NULL,
+  EmailID varchar(320) NOT NULL,
+  MobileNumber int NOT NULL,
+  Address varchar(128) NOT NULL,
+  PRIMARY KEY(StudentID),
+  FOREIGN KEY (RoleID) REFERENCES RoleTable(RoleID)
+);
+
+
+CREATE TABLE FacultyTable
+(
+  FacultyID int NOT NULL,
+  Fname varchar(10) NOT NULL,
+  Lname varchar(20) NOT NULL,
+  PasswordHash BINARY(64) NOT NULL,
+  RoleID int NOT NULL,
+  Gender char(1) NOT NULL,
+  EmailID varchar(320) NOT NULL,
+  MobileNumber int NOT NULL,
+  Address varchar(128) NOT NULL,
+  PRIMARY KEY(FacultyID),
+  FOREIGN KEY (RoleID) REFERENCES RoleTable(RoleID)
+);
+
+
+CREATE TABLE AdminTable
+(
+  AdminID int NOT NULL,
+  Fname varchar(10) NOT NULL,
+  Lname varchar(20) NOT NULL,
+  PasswordHash BINARY(64) NOT NULL,
+  RoleID int NOT NULL,
+  Gender char(1) NOT NULL,
+  EmailID varchar(320) NOT NULL,
+  MobileNumber int NOT NULL,
+  Address varchar(128) NOT NULL,
+  PRIMARY KEY(AdminID),
+  FOREIGN KEY (RoleID) REFERENCES RoleTable(RoleID)
+);
+
+
+
+
+
+
+
