@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C24739C0-B446-451E-B804-D5D183911E94}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Enumerable_Collection_Tutorial/Program.cs">
+    <Files>
+      <File FileName="Enumerable_Collection_Tutorial/Program.cs" Line="22" Column="13" />
+      <File FileName="Enumerable_Collection_Tutorial/OrganisationEnumerator.cs" Line="33" Column="10" />
+      <File FileName="Enumerable_Collection_Tutorial/Employee.cs" Line="9" Column="6" />
+      <File FileName="Enumerable_Collection_Tutorial/Organisation.cs" Line="39" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Enumerable__Collection__Tutorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

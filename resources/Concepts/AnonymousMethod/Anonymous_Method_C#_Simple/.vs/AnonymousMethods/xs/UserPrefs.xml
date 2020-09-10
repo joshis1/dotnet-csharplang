@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1EC3721F-A561-4F16-AF08-BD1828DE66B2}|Default">
+  <MonoDevelop.Ide.ItemProperties.AnonymousMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnonymousMethods/Program.cs">
+    <Files>
+      <File FileName="AnonymousMethods/Program.cs" Line="15" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

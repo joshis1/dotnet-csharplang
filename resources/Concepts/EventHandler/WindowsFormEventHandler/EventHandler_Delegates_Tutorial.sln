@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandler_Delegates_Tutorial", "EventHandler_Delegates_Tutorial\EventHandler_Delegates_Tutorial.csproj", "{7E080E2C-E630-4740-9D09-63C16BB959DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E080E2C-E630-4740-9D09-63C16BB959DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E080E2C-E630-4740-9D09-63C16BB959DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E080E2C-E630-4740-9D09-63C16BB959DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E080E2C-E630-4740-9D09-63C16BB959DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C975F56C-8D19-4727-81E9-3AA0B6C3B1D3}
+	EndGlobalSection
+EndGlobal

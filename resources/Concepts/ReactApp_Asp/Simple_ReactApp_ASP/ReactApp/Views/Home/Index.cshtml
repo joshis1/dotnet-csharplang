@@ -1,0 +1,15 @@
+﻿@using React.Web.Mvc
+
+<h2>Index</h2>
+
+<!-- React Component -->
+<!-- Hello is react component-->
+<!-- name is props -->
+@Html.React("Hello", new
+{
+    name = "Shreyas Joshi",
+    time = DateTime.Now.Year,
+    websiteTitle = ViewBag.message
+})
+
+
